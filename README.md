@@ -43,8 +43,8 @@ javascript-product-search/
 
 # Screenshots
 
-![Homepage Screenshot](assets/screenshot1.png)
-![Search Results](assets/screenshot2.png)
+![Homepage Screenshot](assets/Images/screenshot1.png)
+![Search Results](assets//Images/screenshot2.png)
 
 # Author
 
