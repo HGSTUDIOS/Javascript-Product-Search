@@ -11,7 +11,7 @@ A dynamic product search web app built with **HTML, CSS, and JavaScript**, desig
 - **Interactive UI:** Hover effects, buttons, and product cards for better user experience.
 
 ## Live Demo
-[Add link here if deployed on GitHub Pages or Vercel]
+[https://hgstudios.github.io/Javascript-Product-Search/]
 
 ## Installation / Usage
 
